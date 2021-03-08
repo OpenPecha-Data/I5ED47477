@@ -4,4 +4,44 @@ source_metadata:
   id: bdr:W1PD133164
   title: གསུང་འབུམ། ཨ་འཛི་ནོར་བུ་དབང་རྒྱལ།
   author: ''
-  volumes: {}
+  volumes:
+    3d1dbc03b9af4d6f9824a807cea8a417:
+      image_group_id: I2PD20416
+      title: ''
+      volume_number: 1
+      total_pages: 320
+    174b690f052748038d87e825919a66e4:
+      image_group_id: I2PD20417
+      title: ''
+      volume_number: 2
+      total_pages: 368
+    059a9f9ecda44dcc8542bf414cc3fad8:
+      image_group_id: I2PD20418
+      title: ''
+      volume_number: 3
+      total_pages: 366
+    ac666b90600c4193b0b83f5bd5acb937:
+      image_group_id: I2PD20419
+      title: ''
+      volume_number: 4
+      total_pages: 324
+    bb5ea397c2504e4fb9b1bb189e846c3d:
+      image_group_id: I2PD20420
+      title: ''
+      volume_number: 5
+      total_pages: 326
+    5877d7b1a9484a82885b85dcdf293b81:
+      image_group_id: I2PD20421
+      title: ''
+      volume_number: 6
+      total_pages: 430
+    4ae47c559b3942d0953ddf077f235bb0:
+      image_group_id: I2PD20422
+      title: ''
+      volume_number: 7
+      total_pages: 320
+    817c989dd66e40d9874642a8aa0300c8:
+      image_group_id: I2PD20423
+      title: ''
+      volume_number: 8
+      total_pages: 304
