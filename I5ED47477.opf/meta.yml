@@ -1,0 +1,69 @@
+id: I5ED47477
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-24T19:54:31+00:00'
+last_modified: '2022-06-07T14:01:30.994864+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W1PD133164
+  title: གསུང་འབུམ། ཨ་འཛི་ནོར་བུ་དབང་རྒྱལ།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  base:
+    A33C:
+      image_group_id: I2PD20416
+      title: ''
+      total_pages: 320
+      order: 1
+      base_file: A33C.txt
+    4EFA:
+      image_group_id: I2PD20417
+      title: ''
+      total_pages: 368
+      order: 2
+      base_file: 4EFA.txt
+    C44D:
+      image_group_id: I2PD20418
+      title: ''
+      total_pages: 366
+      order: 3
+      base_file: C44D.txt
+    77A7:
+      image_group_id: I2PD20419
+      title: ''
+      total_pages: 324
+      order: 4
+      base_file: 77A7.txt
+    F39A:
+      image_group_id: I2PD20420
+      title: ''
+      total_pages: 326
+      order: 5
+      base_file: F39A.txt
+    FA34:
+      image_group_id: I2PD20421
+      title: ''
+      total_pages: 430
+      order: 6
+      base_file: FA34.txt
+    810F:
+      image_group_id: I2PD20422
+      title: ''
+      total_pages: 320
+      order: 7
+      base_file: 810F.txt
+    15CE:
+      image_group_id: I2PD20423
+      title: ''
+      total_pages: 304
+      order: 8
+      base_file: 15CE.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
